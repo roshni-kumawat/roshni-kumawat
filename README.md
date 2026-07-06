@@ -27,11 +27,7 @@ AI & Machine Learning Enthusiast | Problem Solver | Continuous Learner
 
 ---
 
-## 🚀 Currently Working On
 
-🤖 **AI Tutor – Intelligent Learning Assistant**
-
----
 
 ## 💻 Core Languages
 
@@ -79,4 +75,4 @@ AI & Machine Learning Enthusiast | Problem Solver | Continuous Learner
 
 🤖 **Human Action Recognition using MediaPipe & OpenCV**
 
-🧠 **AI Tutor (In Progress)**
+
